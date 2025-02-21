@@ -1,6 +1,6 @@
 <?php
 
-namespace Rap2hpoutre\LaravelLogViewer\Test;
+namespace Rap2hpoutre\LaravelLogViewer;
 
 use Orchestra\Testbench\TestCase as OrchestraTestCase;
 use File;

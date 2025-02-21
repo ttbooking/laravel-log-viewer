@@ -39,7 +39,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Rap2hpoutre\\LaravelLogViewer\\Test\\": "tests/"
+            "Rap2hpoutre\\LaravelLogViewer\\": "tests/"
         }
     },
     "extra": {
